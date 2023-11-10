@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Content Provider</string>
+    <string name="btnInsert">Insert</string>
+
+</resources>
